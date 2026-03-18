@@ -1,4 +1,4 @@
-Estudante universitário em Universidade Estácio de Sá
+Estudante universitário em Universidade La Salle
 
 Interesses: 
 JavaScript || HTML || CSS
@@ -9,8 +9,8 @@ DMs abertos :)
 
 //////////////////////////////
 
-University student at Universidade Estácio de Sá
+University student at Universidade La Salle
 
-Focused on: web development with JavaScript | HTML | CSS
+Focused on: web development with JavaScript | HTML | CSS | PHP
 
 DMs are open :)
